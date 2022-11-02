@@ -19,8 +19,8 @@ const Footer = () => {
       </ul>
 
       <div className='footer__socials'>
-        <a href="https://facebook.com"><BsFacebook/></a>
-        <a href="https://instagram.com"><AiFillInstagram/></a>
+        <a href="https://www.facebook.com/sabin.ogknight"><BsFacebook/></a>
+        <a href="https://www.instagram.com/sabin.onclouds/"><AiFillInstagram/></a>
         <a href="https://twitter.com"><AiFillTwitterCircle/></a>
       </div>
 
